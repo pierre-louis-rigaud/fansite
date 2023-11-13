@@ -226,7 +226,7 @@ header {
 }
 
 #intro a {
-    color: rgb(213, 202, 44);
+    color: rgb(0, 0, 0);
     text-decoration: none;
 }
 
@@ -236,7 +236,6 @@ header {
     text-align: center;
     font-family: 'Pacifico';
 }
-
 
 
 
